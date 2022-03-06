@@ -1,8 +1,8 @@
-name = "Idle Engineers 2"
-uid = "b6f8u7l0-987a-4bfa-q777-ec2d6ecd561e"
+name = "Idle Engineers"
+uid = "b6f8u7l0-987a-4bfa-q777-ec2d6ecd561r"
 version = 3
 copyright = "camelCase"
-description = "Highlight working/Idle T1,T2,T3 Engineers and more on the main map with different overlay for each - improved by ZeRen "
+description = "Highlight working/Idle T1,T2,T3 Engineers and more on the main map with different overlay for each - improved by ZeRen and Giebmasse"
 author = "camelCase"
 url = ""
 icon = "/mods/idleEngineers/icon.png"
