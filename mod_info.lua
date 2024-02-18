@@ -1,6 +1,6 @@
 name = "Idle Engineers CBT"
-uid = "62de4f20-ce86-11ee-a2f8-0800200c9a66"
-version = 1
+uid = "199b9a90-ce8e-11ee-a2f8-0800200c9a66"
+version = 2
 copyright = "camelCase"
 description = "Highlight working/Idle T1,T2,T3 Engineers and more on the main map with different overlay for each - improved by ZeRen and Giebmasse. CheeseBerryTweaks v1"
 author = "camelCase, ZeRen, Giebmasse, CheeseBerry"
