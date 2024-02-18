@@ -1,4 +1,4 @@
-local modPath = '/mods/idleEngineers/'
+local modPath = '/mods/idleengineersCBT/'
 
 local GetScore = import(modPath .. 'modules/score.lua').GetScore
 

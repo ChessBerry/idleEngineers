@@ -1,4 +1,4 @@
-local modPath = '/mods/idleEngineers/'
+local modPath = '/mods/idleengineersCBT/'
 local addListener = import(modPath .. 'modules/init.lua').addListener
 local getUnits = import(modPath .. 'modules/units.lua').getUnits
 local Units = import('/mods/common/units.lua')

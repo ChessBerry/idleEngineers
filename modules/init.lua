@@ -1,4 +1,4 @@
-local modPath = '/mods/idleEngineers/'
+local modPath = '/mods/idleengineersCBT/'
 
 local WAIT_SECONDS = 0.1
 local current_tick = 0

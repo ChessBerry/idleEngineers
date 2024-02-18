@@ -1,4 +1,4 @@
-local modPathIE = '/mods/idleEngineers/'
+local modPathIE = '/mods/idleengineersCBT/'
 
 local originalCreateUIidleEngineers = CreateUI
 function CreateUI(isReplay, parent)
