@@ -3,7 +3,7 @@
 Highlight working/Idle T1,T2,T3 Engineers and more on the main map with different overlay for each.
 improved by ZeRen, Giebmasse and  CheeseBerry.
 
-## Changelog from IdleEngineers1  to Ecomanager-CBT-v2
+## Changelog from Idle Engineers to Idle Engineers CheeseBerryTweaks v1
 
 ### Behavior Changes
 * Only highlight engineers that are actually idle, instead of all of them.
