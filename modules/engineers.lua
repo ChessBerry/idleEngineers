@@ -30,7 +30,9 @@ function CreateOverlay1(unit)
 			local worldView = import('/lua/ui/game/worldview.lua').viewLeft
 			local pos = worldView:Project(unit:GetPosition())
 			--print('OVERLAY POSITION: ('..pos.x..'/'..pos.y..')')
-			LayoutHelpers.AtLeftTopIn(overlay, worldView, pos.x - overlay.Width() / 2, pos.y - overlay.Height() / 2 + 1)
+			local leftOffset = LayoutHelpers.InvScaleNumber(pos.x - overlay.Width() / 2)
+			local topOffset = LayoutHelpers.InvScaleNumber(pos.y - overlay.Height() / 2 + 1)
+			LayoutHelpers.AtLeftTopIn(overlay, worldView, leftOffset, topOffset)
 		else
 			overlay.destroy = true
 			overlay:Hide()
